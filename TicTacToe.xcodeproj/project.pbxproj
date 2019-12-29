@@ -27,6 +27,7 @@
 		C0806C1223B612C0003E9DB2 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		C0806C1423B612C0003E9DB2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		C091DC2223B86D8A00E322EA /* GameData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameData.swift; sourceTree = "<group>"; };
+		C091DC2423B8774600E322EA /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		C0EB672923B86B23004253C2 /* StartViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StartViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -44,6 +45,7 @@
 		C0806BFA23B612BA003E9DB2 = {
 			isa = PBXGroup;
 			children = (
+				C091DC2423B8774600E322EA /* README.md */,
 				C0806C0523B612BA003E9DB2 /* TicTacToe */,
 				C0806C0423B612BA003E9DB2 /* Products */,
 			);
